@@ -23,9 +23,10 @@
 
 ## Preparing ESP32 in Arduino IDE
 <br>
-<b> Step 1<b/> : First you need to download and install <b> Arduino IDE <b/> software which you can download from https://www.arduino.cc/en/Main/Software for free. If you have already installed Arduino IDE on your PC, then make sure that it is the latest version of IDE as the older version doesn’t include the ESP32 board.
-
+<b> Step 1</b> : First you need to download and install <b> Arduino IDE <b/> software which you can download from https://www.arduino.cc/en/Main/Software for free. If you have already installed Arduino IDE on your PC, then make sure that it is the latest version of IDE as the older version doesn’t include the ESP32 board.
 <br>
+
 <b> Step 2</b>: After installing, open IDE and go to <b> Files -> Preferences </b> and open preference window and see the <b> “Additional Boards Manager URL’s” </b> as:
-![Preparing-ESP32-in-Arduino-IDE](https://user-images.githubusercontent.com/101488769/177851541-9cf4183b-16dc-4199-b89e-17555e7894a5.png)
+![Preparing-ESP32-in-Arduino-IDE](https://user-images.githubusercontent.com/101488769/177851701-3bb32d05-e64d-43be-a215-1e50e4355377.png)
+
 
