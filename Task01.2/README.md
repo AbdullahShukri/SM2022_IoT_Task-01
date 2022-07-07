@@ -29,16 +29,19 @@
 
 <b> Step 2:</b> After installing, open IDE and go to <b> Files -> Preferences </b> and open preference window and see the <b> “Additional Boards Manager URL’s” </b> as:
 <br>
+<br>
 ![Preparing-ESP32-in-Arduino-IDE](https://user-images.githubusercontent.com/101488769/177851701-3bb32d05-e64d-43be-a215-1e50e4355377.png)
 <br>
 <br>
 
 <b> Step 3:</b> This box may be empty or contain some other URL if you have used it previously for ESP8266. You just have to paste the below URL into this box if the box contains already another URL, then paste it by separating another URL using comma(,).
+<br>
 https://dl.espressif.com/dl/package_esp32_index.json
 <br>
 <br>
 
 <b> Step 4:</b> After pasting the given URL my window looks like this as I already used ESP82666, Now press OK and the window will disappear.
+<br>
 <br>
 ![Setting-Preference-for-Interfacing-ESP32-with-Arduino](https://user-images.githubusercontent.com/101488769/177852612-34b0508e-a24f-43bf-81bf-5929925cc78b.png)
 <br>
@@ -46,3 +49,5 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 <b> Step 5:</b> Now go to <b> Tools-> Board-> Board Manager </b>  and search for ESP32 and press <b> install </b>, it will take some time to install, make sure that you have an internet connection; after installing, your window looks like this
 ![Install-ESP32-Library-in-ArduinoIDE](https://user-images.githubusercontent.com/101488769/177852983-08c9c80c-17b4-41e6-90ec-0722ca2744f4.png)
+<br>
+<br>
