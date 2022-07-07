@@ -14,7 +14,7 @@
 * Arduino IDE
 
 ### Table of Contents
-* [Preparing ESP32 in Arduino IDE](#Preparing ESP32 in Arduino IDE)
+* [Preparing ESP32 in Arduino IDE](#Preparing)
 * [Video to help](#video_to_help)
 * [Testing](#testing)
 * [Concluion](#concluion)
