@@ -48,6 +48,11 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <br>
 
 <b> Step 5:</b> Now go to <b> Tools-> Board-> Board Manager </b>  and search for ESP32 and press <b> install </b>, it will take some time to install, make sure that you have an internet connection; after installing, your window looks like this
+<br>
+<br>
 ![Install-ESP32-Library-in-ArduinoIDE](https://user-images.githubusercontent.com/101488769/177852983-08c9c80c-17b4-41e6-90ec-0722ca2744f4.png)
 <br>
 <br>
+After this, close the window of board manager and your Arduino IDE is ready to program ESP32.
+
+
