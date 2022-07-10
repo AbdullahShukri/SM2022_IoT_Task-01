@@ -15,7 +15,7 @@
 
 ### Table of Contents
 * [Preparing ESP32 in Arduino IDE](#Preparing-ESP32-in-Arduino-IDE)
-* [Video to help](#video_to_help)
+* [Programming ESP32 With Arduino IDE](#Programming-ESP32-With-Arduino-IDE)
 * [Testing](#testing)
 * [Concluion](#concluion)
 <br>
@@ -50,9 +50,22 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <b> Step 5:</b> Now go to <b> Tools-> Board-> Board Manager </b>  and search for ESP32 and press <b> install </b>, it will take some time to install, make sure that you have an internet connection; after installing, your window looks like this
 <br>
 <br>
+
 ![Install-ESP32-Library-in-ArduinoIDE](https://user-images.githubusercontent.com/101488769/177852983-08c9c80c-17b4-41e6-90ec-0722ca2744f4.png)
 <br>
 <br>
+
 After this, close the window of board manager and your Arduino IDE is ready to program ESP32.
+<br>
+<br>
 
+## Programming-ESP32-With-Arduino-IDE
+Now you are ready to <b> program your ESP32 using Arduino IDE</b> according to your requirements. Following are the steps required to program the ESP32 with Arduino IDE. Here we will <b> upload an LED binky program in ESP32 using Arduino IDE.</b>
+<br>
+<br>
 
+<b> Step 1:</b> First of all, connect your ESP32 to your computer using a micro-USB cable, make sure that Red LED goes high after connecting it with the PC.
+<br>
+<br>
+
+<b> Step 2:</b> Now you have to select your board; so go to <b> Tools-> Boards -> esp32 -> select “WEMOS D1 MINI ESP32”. </b>
