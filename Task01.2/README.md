@@ -30,7 +30,8 @@
 <b> Step 2:</b> After installing, open IDE and go to <b> Files -> Preferences </b> and open preference window and see the <b> “Additional Boards Manager URL’s” </b> as:
 <br>
 <br>
-![Preparing-ESP32-in-Arduino-IDE](https://user-images.githubusercontent.com/101488769/177851701-3bb32d05-e64d-43be-a215-1e50e4355377.png)
+
+![ESP32-Arduino-IDE-3](https://user-images.githubusercontent.com/101488769/178159128-918f90fb-1c99-4b7b-ac00-b9d733b9fd84.jpg)
 <br>
 <br>
 
@@ -43,7 +44,8 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <b> Step 4:</b> After pasting the given URL my window looks like this as I already used ESP82666, Now press OK and the window will disappear.
 <br>
 <br>
-![Setting-Preference-for-Interfacing-ESP32-with-Arduino](https://user-images.githubusercontent.com/101488769/177852612-34b0508e-a24f-43bf-81bf-5929925cc78b.png)
+
+![ESP32-Arduino-IDE-3](https://user-images.githubusercontent.com/101488769/178159137-27b91f44-d4ba-4e9e-8f04-16b9e6c1b1c8.jpg)
 <br>
 <br>
 
@@ -51,7 +53,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 <br>
 <br>
 
-![Install-ESP32-Library-in-ArduinoIDE](https://user-images.githubusercontent.com/101488769/177852983-08c9c80c-17b4-41e6-90ec-0722ca2744f4.png)
+![ESP32-Arduino-IDE-5](https://user-images.githubusercontent.com/101488769/178159153-12ab54d8-481d-47c1-a4bf-86dd4d58fca9.jpg)
 <br>
 <br>
 
