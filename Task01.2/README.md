@@ -69,3 +69,11 @@ Now you are ready to <b> program your ESP32 using Arduino IDE</b> according to y
 <br>
 
 <b> Step 2:</b> Now you have to select your board; so go to <b> Tools-> Boards -> esp32 -> select “WEMOS D1 MINI ESP32”. </b>
+<br>
+![WEMOS D1 MINI ESP32](https://user-images.githubusercontent.com/101488769/178156726-88c93f41-b899-40aa-8418-97e3725d9439.png)
+<br>
+
+<b> Step 3:</b> Now open device manager and check to which com port ESP32 is connected. Here, my ESP is connected to COM3.
+<br>
+![COM3](https://user-images.githubusercontent.com/101488769/178156801-3b355dc8-37bb-497b-b319-0fa436fc57b5.png)
+<br>
