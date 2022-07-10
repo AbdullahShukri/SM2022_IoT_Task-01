@@ -90,10 +90,15 @@ One of the first projects made with Arduino is “how is to blink a LED”.  Man
 <br>
 <br>
 
-![Blink](https://user-images.githubusercontent.com/101488769/178157772-2dd62332-14f8-40f7-a474-257a9bd3e1a1.png)
+![Blink](https://user-images.githubusercontent.com/101488769/178157943-7c763d55-d73a-407b-a036-49a5d9cf7ea0.png)
 <br>
 <br>
 
-![Code](https://user-images.githubusercontent.com/101488769/178157858-7fe6cd48-06e3-4076-b254-0477afec77ec.png)
+Then it opens in  another window
 <br>
 <br>
+
+![Code](https://user-images.githubusercontent.com/101488769/178157950-b80d86fb-56a0-4773-977d-8434b190bf78.png)
+<br>
+<br>
+
