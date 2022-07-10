@@ -16,7 +16,7 @@
 ### Table of Contents
 * [Preparing ESP32 in Arduino IDE](#Preparing-ESP32-in-Arduino-IDE)
 * [Programming ESP32 With Arduino IDE](#Programming-ESP32-With-Arduino-IDE)
-* [Testing](#testing)
+* [Blinking LED](#Blinking-LED)
 * [Concluion](#concluion)
 <br>
 
@@ -85,3 +85,15 @@ Now you are ready to <b> program your ESP32 using Arduino IDE</b> according to y
 <br>
 <br>
 
+## Blinking-LED
+One of the first projects made with Arduino is “how is to blink a LED”.  Many examples exist for blinking a Led with Arduino. Unfortunately, these tutorials do not have details about the coding and are very basic in their explanation. In this tutorial, I hope to help new users go into more detail and understand the code used for controlling a LED.
+<br>
+<br>
+
+![Blink](https://user-images.githubusercontent.com/101488769/178157772-2dd62332-14f8-40f7-a474-257a9bd3e1a1.png)
+<br>
+<br>
+
+![Code](https://user-images.githubusercontent.com/101488769/178157858-7fe6cd48-06e3-4076-b254-0477afec77ec.png)
+<br>
+<br>
