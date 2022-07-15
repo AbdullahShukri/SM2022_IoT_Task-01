@@ -114,11 +114,16 @@ In this project you’ll create a standalone web server with an ESP32 that contr
 <br>
 
 <b> Interface </b>
+<br>
+<br>
+
 ![photo_5947554215264106562_y](https://user-images.githubusercontent.com/101488769/179234085-f1e0216c-8e2b-4e84-990c-4995f304b9c1.jpg)
 <br>
 <br>
 
 <b> Validating </b>
+<br>
+<br>
 ![document_5947554214807866160 gif](https://user-images.githubusercontent.com/101488769/179235398-f95c4bf5-b811-45e8-8f67-8584d2def732.gif)
 <br>
 <br>
